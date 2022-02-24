@@ -5,7 +5,7 @@ Code that I am sharing
 
 ## VS CODE virtual environment:
 
-- Hold SHIFT $ Right click on Scripts directory
+- Hold SHIFT & Right click on Scripts directory
 - Select "Copy Path"
 - paste into terminal window at bottom of screen.
 - add 'activate.bat' or dactivate.bat
