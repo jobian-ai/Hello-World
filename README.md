@@ -8,4 +8,4 @@ Code that I am sharing
 - Hold SHIFT & Right click on Scripts directory
 - Select "Copy Path"
 - paste into terminal window at bottom of screen.
-- add 'activate.bat' or dactivate.bat
+- add "activate.bat" or "dactivate.bat"
