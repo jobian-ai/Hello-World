@@ -19,7 +19,6 @@ I followed the intructions (It's CTL+SHIFT+P not CTL+ALT+P) and added this to th
 ```
 {
 // Stuff deleted
-	"crash-reporter-id": "4b739ddf-6fb0-43da-b297-933021d2605c",
 	// Hellow World!
 	"enable-proposed-api": ["ms-toolsai.jupyter"]
 }
