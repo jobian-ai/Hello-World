@@ -1,5 +1,5 @@
 # Hello-World
-Code that I am sharing
+Code that I am sharing, with the entire world.
 
 ## So far, this is just some code written while doing a tutorial
 
