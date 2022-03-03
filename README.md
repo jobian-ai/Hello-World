@@ -206,3 +206,11 @@ IN VS CODE / CODE - OSS
 ## COMMIT & PUSH OK!!!!!
 
 # VICTORY!
+
+>ssh -T git@gitlab.com   
+
+```
+git@gitlab.com: Permission denied (publickey,keyboard-interactive).
+```
+
+*sigh*
