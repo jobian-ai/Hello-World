@@ -215,4 +215,6 @@ git@gitlab.com: Permission denied (publickey,keyboard-interactive).
 
 *sigh*
 
+```
 source venv/bin/activate
+```
