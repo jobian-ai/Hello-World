@@ -1,3 +1,4 @@
 .vscode/
+_arc/
 venv/
 *.db
