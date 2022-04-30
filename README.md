@@ -206,6 +206,9 @@ IN VS CODE / CODE - OSS
 ## COMMIT & PUSH OK!!!!!
 
 # VICTORY!
+___
+Test commit from Fedora workstation
+
 
 >ssh -T git@gitlab.com   
 
