@@ -225,3 +225,13 @@ virtualenv venv
 ```
 source venv/bin/activate
 ```
+
+30 APR 22
+___
+Moved to a different computer and had to run these commands to get GIT to run in VSCode:
+
+```
+git config --global user.name "user name"
+git config --global user.email "user email"
+```
+
