@@ -5,3 +5,7 @@ Want to get a directory list without all the folders and totals.  For instance w
 [Stackoverflow](https://stackoverflow.com/questions/23228983/batch-file-list-files-in-directory-only-filenames)
 
 > dir /b /a-d
+
+Pipe to a file:
+
+> dir /b /a-d > dir.txt
