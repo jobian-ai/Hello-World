@@ -234,4 +234,16 @@ Moved to a different computer and had to run these commands to get GIT to run in
 git config --global user.name "user name"
 git config --global user.email "user email"
 ```
+___
+02 JUL 22
 
+This README.md was somewhat of help setting up VS code on a new computer (Fedora 36 - Gnome).
+
+These two links were helpful.
+
+[Link1](https://www.linuxcapable.com/how-to-install-visual-studio-code-on-fedora-36-linux/)
+
+[Link2](https://linux-packages.com/fedora-36/package/python3-virtualenv-clonenoarch)
+
+With the first link, virtual environments worked right away. 
+___
