@@ -1,0 +1,5 @@
+# ignore the venv dir.
+venv/
+
+# ignore pdf's this is a test
+*.pdf
