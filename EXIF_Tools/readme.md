@@ -2,4 +2,4 @@
 ___
 Python - Jupyter
 [Thread from Stackoverflow](https://stackoverflow.com/questions/51219159/remove-exif-from-all-files-in-directory)
-test
+test fd
